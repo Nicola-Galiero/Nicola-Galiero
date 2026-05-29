@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Nicola 👋
 
-<!--
-**Nicola-Galiero/Nicola-Galiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer & Tech Enthusiast
 
-Here are some ideas to get you started:
+Passionate about technology and software development, I enjoy building practical applications, learning new tools, and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+* 💻 Computer Science enthusiast
+* 🛠️ Interested in full-stack development and automation
+* 🌱 Always learning new technologies
+* 🎤 Event speaker and entertainer
+* ⚡ Focused on creating useful and efficient solutions
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, TypeScript, Python, SQL, C , C++
+
+**Frontend:** React, HTML, CSS, Bootstrap
+
+**Backend:** Node.js, Express
+
+**Databases:** MySQL, MongoDB
+
+### 📈 Currently
+
+* Building personal projects
+* Improving full-stack development skills
+* Exploring new technologies and best practices
+
+📫 Contact: nicola.galiero001@gmail.com
